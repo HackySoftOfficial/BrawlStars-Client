@@ -1,5 +1,6 @@
 # BrawlStars-Client
 client for brawl stars v58 prod server
+**You will need to update packet structure and the ClientHelloMessage.js!!!**
 
 # NOTE
 This content is not affiliated with, endorsed,sponsored, or specifically approved by supercell and supercell is not responsible for it.
